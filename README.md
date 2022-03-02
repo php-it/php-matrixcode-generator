@@ -14,7 +14,7 @@ ___________________________________________________
 
 ### Example: 4x4 matrix code
 
-Wil output a 16 square grid. Possible outcomes: 65,536
+Generates a 16 square grid. Possible outcomes: 65,536
 
 `echo generateMatrixCode(16);`
 
@@ -24,7 +24,7 @@ ___________________________________________________
 
 ### Example: 8x8 matrix code
 
-Wil output a 64 square grid. Possible outcomes: 18,446,744,073,709,551,616
+Generates a 64 square grid. Possible outcomes: 18,446,744,073,709,551,616
 
 `echo generateMatrixCode(64);`
 
@@ -34,7 +34,7 @@ ___________________________________________________
 
 ### Example: 16x16 matrix code
 
-Wil output a 256 square grid. Possible outcomes: 1.1579208923731619542e+77
+Generates a 256 square grid. Possible outcomes: 1.1579208923731619542e+77
 
 `echo generateMatrixCode(256);`
 
@@ -44,7 +44,7 @@ ___________________________________________________
 
 ### Example: 32x32 matrix code
 
-Wil output a 1024 square grid. Possible outcomes: 1.7976931348623159077e+308
+Generates a 1024 square grid. Possible outcomes: 1.7976931348623159077e+308
 
 `echo generateMatrixCode(1024);`
 
@@ -54,7 +54,7 @@ ___________________________________________________
 
 ### Example: 64x64 matrix code
 
-Wil output a 4096 square grid. Possible outcomes: 1.0443888814131525067e+1233 (**virtually unlimited**)
+Generates a 4096 square grid. Possible outcomes: 1.0443888814131525067e+1233 (**virtually unlimited**)
 
 `echo generateMatrixCode(4096);`
 
