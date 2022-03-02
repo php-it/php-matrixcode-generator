@@ -8,7 +8,7 @@ Offering support for 5 types of matrix codes: 4x4, 8x8, 16x16, 32x32 and 64x64.
 
 ## Usage
 
-Just include the `generateMatrixCode()` function inside your own project and call it by using `echo`. Don't forget to pass in the desired type of matrix code as the `$digits` argument. Below are examples of all 5 different type of codes. The index.php file offers an example  how to use this inside a basic HTML page.
+Just include the `generateMatrixCode()` function inside your own project and call it by using `echo`. Don't forget to pass in the desired type of matrix code as the `$digits` argument. Below are examples of all 5 different type of codes. The index.php file shows an example  how to use this inside a basic HTML page.
 
 ___________________________________________________
 
